@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\bin\Debug\netcoreapp3.1\P324_Value_Reference.exe
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\bin\Debug\netcoreapp3.1\P324_Value_Reference.deps.json
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\bin\Debug\netcoreapp3.1\P324_Value_Reference.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\bin\Debug\netcoreapp3.1\P324_Value_Reference.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\bin\Debug\netcoreapp3.1\P324_Value_Reference.dll
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\bin\Debug\netcoreapp3.1\P324_Value_Reference.pdb
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.dll
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.pdb
+C:\Users\Lenovo\source\repos\P324_Value_Reference\P324_Value_Reference\obj\Debug\netcoreapp3.1\P324_Value_Reference.genruntimeconfig.cache
